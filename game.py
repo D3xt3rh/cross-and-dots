@@ -1,3 +1,27 @@
+"
+| X |   |   |
+| O | O | O | 
+|   |   |  X|
+Player 2 Won the Game :)
+
+| X |   |   |
+| O | X | O | 
+|   |   |  X|
+Player 1 Won the Game :)
+
+| X | O | O |
+| O | X | O | 
+| X | O |  X|
+
+Its a draw :/
+"
+
+
+
+
+
+
+
 board=["  " for i in range(9)]
 
 def print_board():
